@@ -1,6 +1,8 @@
 # Bayesci Çıkarıma Giriş (Python ve PyMC3 ile)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrtkp9993/Bayesian-Inference/master)
+[![DOI](https://zenodo.org/badge/126584248.svg)](https://zenodo.org/badge/latestdoi/126584248)
+
 
 Orjinal kaynak: [Youtube](https://www.youtube.com/watch?v=TMmSESkhRtI) [Github](https://github.com/fonnesbeck/intro_stat_modeling_2017)
 
